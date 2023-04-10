@@ -1,14 +1,3 @@
-{
-  "files.exclude": {
-    "**/.git": true,
-    "**/.svn": true,
-    "**/.hg": true,
-    "**/CVS": true,
-    "**/.DS_Store": true,
-    "**/Thumbs.db": true,
-    "**/node_modules": false
-  },
-  "files.associations": {
-    "*.css": "tailwindcss"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:aad7b44c6d7da6096b349e9d97f46bf1ba12bdefe98eac902d5b8d4dae96d620
+size 264
